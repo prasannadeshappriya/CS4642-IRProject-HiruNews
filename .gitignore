@@ -1,0 +1,6 @@
+.idea
+IRProject/data
+IRProject/spiders/__pycache__
+IRProject/__pycache__
+__init__.py
+IRProject/data/__pycache__
